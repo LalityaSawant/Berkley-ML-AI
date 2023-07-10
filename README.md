@@ -9,7 +9,7 @@ The dataset provided was from the UCI Machine Learning repository and was collec
 ### **Analysis Report:** 
 ## Investigating Coupon Acceptance and analyzing Bar and Coffee House Coupons
 
-###**Introduction:**
+### **Introduction:**
   This analysis report aims to examine the acceptance rate of coupons among drivers and investigate the behavior of drivers who accepted bar and coffee house coupons. Additionally, we will provide recommendations for further analysis and strategies based on the findings.
 
 *The proportion of total observations accepting the coupon:*
