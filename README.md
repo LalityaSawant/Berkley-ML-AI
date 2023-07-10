@@ -67,5 +67,5 @@ The dataset provided was from the UCI Machine Learning repository and was collec
     - Customer feedback: Engage with customers to gather feedback on coffee house coupons. Understand the reasons behind the preference for longer expiration periods and leverage this insight to refine coupon designs and offerings.
 
 
-**Conclusion:**
+## **Conclusion:**
   Based on the analysis of bar and coffee house coupons, several hypotheses have been identified regarding the characteristics and preferences of drivers who accept these coupons. Targeted marketing campaigns, personalized offers, collaborations, and gathering customer feedback can further optimize the acceptance rate and engagement of drivers with bar and coffee house coupons. By implementing these recommendations, businesses can effectively reach and cater to the preferences of their target audience, ultimately driving increased coupon acceptance and customer satisfaction.
